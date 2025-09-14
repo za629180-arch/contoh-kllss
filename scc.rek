@@ -1,0 +1,25 @@
+.rekening-container {
+            width: 300px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-family: sans-serif;
+        }
+
+        .rekening-title {
+            text-align: center;
+            color: #333;
+        }
+
+        .rekening-info p {
+            margin-bottom: 10px;
+        }
+
+        .rekening-info strong {
+            color: #555;
+        }
+
+        #nama-bank {
+            font-weight: bold;
+        }
